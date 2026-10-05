@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+# Artefactos de compilacion de MASM/Visual Studio
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Biblioteca externa de Irvine32
+Simulador en MASM/Irvine.zip

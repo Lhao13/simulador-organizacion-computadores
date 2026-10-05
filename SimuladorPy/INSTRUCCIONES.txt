@@ -1,0 +1,26 @@
+Arrancar el programa:
+
+	python "C:\path\Simulador.py" MEMORY_SIZE CACHE_SIZE BLOCK_SIZE MAPPING_POLICY REPLACEMENT_POLICY WRITE_POLICY
+	Ejemplo: 
+	python "C:\path\Simulador.py" 4 2 2 1 LRU WB
+
+	Las politicas de reemplazo y escritura están en "claseCache.py"
+
+Luego de correr el programa, se puede:
+
+	escribir - write (direccion de espacio de memoria) (numero que se desea ingresar)
+	Ejemplo
+	write 1 500
+	
+	leer - read (direccion de memoria)
+	read 1 
+
+	imprimir memoria - printmem (rango de memoria)
+	Ejemplo
+	printmem 0 1
+
+	imprimir cache - printcache (rango de cache)
+	Ejemplo
+	printmem 0 1
+
+	salir - quit
