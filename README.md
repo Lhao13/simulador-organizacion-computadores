@@ -2,7 +2,7 @@
 
 Proyecto académico para explorar cómo se comportan una caché y los niveles de memoria ante operaciones de lectura y escritura. La propuesta plantea comparar implementaciones en un lenguaje de alto nivel y otro de bajo nivel; en esta carpeta se incluyen una implementación en Python y otra en ensamblador MASM.
 
-**Fecha de implementación:** 2024/11  
+**Fecha de implementación:** 2024/05  
 **Integrantes de la propuesta:** Xavier Tandazo y Leandro Coral
 
 ## Implementaciones
